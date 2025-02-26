@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bachelor's Student | Department of Biomedical Engineering, [Kyung Hee University](https://www.khu.ac.kr/)
+subtitle: Bachelor's Student | Department of Biomedical Engineering, <a href="https://www.khu.ac.kr/">Kyung Hee University</a>
 
 profile:
   align: right
