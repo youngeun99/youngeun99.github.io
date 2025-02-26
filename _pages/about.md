@@ -6,7 +6,7 @@ subtitle: Bachelor's Student | Department of Biomedical Engineering, <a href="ht
 
 profile:
   align: right
-  image: prof_pic_color.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>103, Nohae-ro 69-gil,</p>
