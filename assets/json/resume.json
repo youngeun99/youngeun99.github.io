@@ -1,20 +1,20 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Youngeun Yoon",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
+    "email": "dms90904@gmail.com",
+    "phone": "",
+    "url": "https://youngeun.tiiny.site/",
+    "summary": "Bachelor's student in Biomedical Engineering at Kyung Hee University aspiring to pursue a Master's degree.",
+    "_comment_location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": [
+    "_comment_profiles": [
       {
         "network": "Twitter",
         "username": "AlbertEinstein",
@@ -24,13 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Radiology Lab",
+      "position": "Undergraduate Researcher",
+      "startDate": "2023-01-20",
+      "endDate": "2024-06-30",
+      "summary": "Published a research paper in a leading scientific journal describing the results of the experiment. Used statistical analysis to draw meaningful conclusions from the data collected from the experiment",
+      "highlights": ["Statistical Analysis"]
     }
   ],
   "_comment_volunteer": [
@@ -47,15 +46,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Kyung Hee University, Yongin, Republic of Korea",
+      "location": "Yongin, Republic of Korea",
+      "url": "https://www.khu.ac.kr/",
+      "area": "",
+      "studyType": "Bachelor",
+      "startDate": "2020-03-02",
+      "endDate": "now",
+      "_commend_score": "10",
+      "courses": ["Biomedical Engineering", "Minor in Electronic Engineering"]
     }
   ],
   "_comment_awards": [
@@ -189,12 +188,25 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Classification of Brain Tumor",
+      "summary": "Developed a deep learning-based CNN model to detect and classify brain tumors using MRI scans. Trained and evaluated the model on a dataset with four categories: Glioma, Meningioma, Pituitary Tumor, and No Tumor.",
+      "highlights": ["Deep Learning", "Classification"],
+      "startDate": "2024-03-04",
+      "endDate": "2024-06-21",
+    },
+    {
+      "name": "Real-time Gait Measurement Device",
+      "summary": "Developed a lightweight, portable gait measurement device with pressure sensors attached to shoes. Utilized AVR and Bluetooth communication to transmit real-time foot pressure data to a PC. Implemented a Python-based software for real-time graphical visualization and color-mapped foot pressure analysis.",
+      "highlights": ["Real-time Data Transmission", "Wearable Technology"],
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-21",
+    },
+    {
+      "name": "Bio signal Based Stress Monitoring system",
+      "summary": "Measured and analyzed multiple bio-signals to detect stress and relaxation states. Developed a real-time stress detection system",
+      "highlights": ["Bio-signal Analysis"],
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-21",
     }
   ]
 }
