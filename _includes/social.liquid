@@ -5,10 +5,5 @@
     {% when 'orcid_id' %}
       <a href="https://orcid.org/{{ social[1] }}" title="ORCID"><i class="ai ai-orcid"></i></a>
     {% for social in site.data.socials %}
-  {% case social[0] %}
-    {% when 'email' %}
-      <a href="mailto:{{ social[1] | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
-    {% when 'orcid_id' %}
-      <a href="https://orcid.org/{{ social[1] }}" title="ORCID"><i class="ai ai-orcid"></i></a>
   {% endcase %}
 {% endfor %}
