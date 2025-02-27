@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 4th September 1999
     - name: Languages
-      value: English, Korean
+      value: Korean, English
 
 - title: Education
   type: time_table
@@ -15,59 +15,47 @@
       institution: Kyung Hee University, Yongin, Republic of Korea
       year: 2020 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - B.S. in Biomedical Engineering
+        - Minor in Electronic Engineering.
 
-- title: Experience
+- title: Internships
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Researcher
+      institution: Gangdong Kyunghee University Hospital, Seoul, Republic of Korea
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Radiology Lab
+        - Published a research paper in a leading scientific journal describing the results of the experiment.
+        - Used statistical analysis to draw meaningful conclusions from the data collected from the experiment.
+      
+- title: Project Experience
+  type: time_table
+  contents:
+    - title: Classification of Brain Tumor
+      institution: Kyung Hee University, Yongin, Republic of Korea
+      year: 2024 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Developed a deep learning-based CNN model to detect and classify brain tumors using MRI scans.
+        - Trained and evaluated the model on a dataset with four categories; Glioma, Meningioma, Pituitary Tumor, and No Tumor.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Real-time Gait Measurement Device
+      institution: Kyung Hee University, Yongin, Republic of Korea
+      year: 2023 - 2023
       description:
+        - Developed a lightweight, portable gait measurement device with pressure sensors attached to shoes.
+        - Utilized AVR and Bluetooth communication to transmit real-time foot pressure data to a PC.
+        - Implemented a Python-based software for real-time graphical visualization and color-mapped foot pressure analysis
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
+    - title: Bio signal Based Stress Monitoring system
+      institution: Kyung Hee University, Yongin, Republic of Korea
+      year: 2023 - 2023
+      description: 
+        - Measured and analyzed multiple bio-signals to detect stress and relaxation states.
+        - Developed a real-time stress detection system
+      
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Human-Computer Interaction
+    - title: Artificial Intelligence
