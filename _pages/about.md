@@ -18,8 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Hello, I am Youngeun Yoon, and I am currently pursuing a Bachelor's degree in the Department of Biomedical Engineering at Kyung Hee University. I am particularly interested in advancing my studies and am preparing to apply for a Master's program.
+Hello, I am Youngeun Yoon, currently pursuing a Bachelor's degree in the Department of Biomedical Engineering at Kyung Hee University. I am eager to continue my academic journey and am preparing to apply for a Master's program.
 
-Throughout my academic journey and hands-on experience, I have developed expertise in sensor design, signal processing, and algorithm development. With 1.5 years of internship experience in the Radiology Department at Gangdong Kyung Hee University Hospital, I have gained valuable clinical insights and a profound interest in data visualization and human-computer interaction.
+Throughout my studies and hands-on experiences, I have developed expertise in sensor design, signal processing, and algorithm development. Additionally with 1.5 years of internship experience in the Radiology Department at Gangdong Kyung Hee University Hospital, I have gained valuable clinical insights and a profound interest in data visualization and human-computer interaction.
 
 Please do not hesitate to contact me via email regarding any opportunities you would like to discuss.
